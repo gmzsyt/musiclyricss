@@ -1,0 +1,77 @@
+[
+    {
+      "Tür" : "Rock",
+      "sings" : [
+        {
+          "name" : "To Leave - ShamRain",
+          "photo" : "https://images.genius.com/ac1234439883054bc23704cbcfba7868.800x800x1.jpg",
+          "lyrics" : "https://api.4debug.com/v1/ShamRain/toleave"
+        },
+        {
+          "name" : "Smells Like Teen Spirit - Nirvana",
+          "photo" : "https://i1.sndcdn.com/artworks-000669002338-ywklfn-t500x500.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Nirvana/smellsliketeenspirit"
+        },
+        {
+          "name" : "Come together - The beatles",
+          "photo" : "https://static.wikia.nocookie.net/movie-ideas2293/images/b/ba/Come_Together_Beatles_biopic_logo.jpg/revision/latest?cb=20190212231457",
+          "lyrics" : "https://api.4debug.com/v1/TheBeatles/cometogether"
+        }
+      ]
+    },
+    {
+      "Tür" : "Metal",
+      "sings" : [
+        {
+          "name" : "Wasting Love - Iron Maiden",
+          "photo" : "https://images.genius.com/c63103a2726dd747450be86669d3c267.850x850x1.jpg",
+          "lyrics" : "https://api.4debug.com/v1/IronMaiden/wastinglove"
+        },
+        {
+          "name" : "One Last Goodbye - Anathema",
+          "photo" : "https://m.media-amazon.com/images/I/31dXcbFuzgL._SS500_.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Anathema/onelastgoodbye"
+        },
+        {
+          "name" : "This Means War - Avenged Sevenfold",
+          "photo" : "https://i.pinimg.com/564x/7c/8e/0e/7c8e0e03d25344786ea60c30939de3ef.jpg",
+          "lyrics" : "https://api.4debug.com/v1/AvengedSevenfold/thismeanswar"
+        }
+      ]
+    },
+    {
+      "Tür" : "Türkçe Pop",
+      "sings" : [
+        {
+          "name" : "Adımı kalbine yaz - Tarkan",
+          "photo" : "https://www.sozburada.com/wp-content/uploads/2018/08/tarkan.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Tarkan/adımıkalbineyaz"
+        },
+        {
+          "name" : "Kuzu kuzu - Tarkan",
+          "photo" : "https://www.sozburada.com/wp-content/uploads/2018/08/tarkan.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Tarkan/kuzukuzu"
+        },
+        {
+          "name" : "Her şeyi yak - Duman",
+          "photo" : "https://s.mxmcdn.net/images-storage/albums5/9/5/8/2/0/7/40702859_350_350.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Duman/herşeyiyak"
+        }
+      ]
+    },
+    {
+      "Tür" : "Rap",
+      "sings" : [
+        {
+          "name" : "Without Me - Eminem",
+          "photo" : "https://i.ytimg.com/vi/tqxRidAWER8/maxresdefault.jpg",
+          "lyrics" : "https://api.4debug.com/v1/Eminem/withoutme"
+        },
+        {
+          "name" : "Lil jeep - Lil peep",
+          "photo" : "https://images.genius.com/006f0a80dcbe19e51a2d6f8945ab13e4.220x220x1.png",
+          "lyrics" : "https://api.4debug.com/v1/LilPeep/liljeep"
+        }
+      ]
+    }
+]
